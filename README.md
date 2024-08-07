@@ -1,2 +1,2 @@
 # Mera-Bharat
-This is my first project including basic HTML and CSS Skills. 
+This is my first website including basic HTML and CSS Skills. 
